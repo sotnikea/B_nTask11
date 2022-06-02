@@ -44,7 +44,7 @@
 
 # Обзор решения
 ### Тестирование с исходным KittenRegistry
-Деплоим PatShop из файла KittenRegistry  
+Деплоим PetShop из файла KittenRegistry  
 
 ![pic1](https://github.com/sotnikea/B_nTask11/raw/main/pic1/1.png)     
 
