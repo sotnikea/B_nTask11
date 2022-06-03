@@ -145,6 +145,6 @@
 
 
 # Ссылки
-Цикл уроков по solidity - https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.11+commit.d7f03943.js
+Цикл уроков по solidity - https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.11+commit.d7f03943.js  
 Размещение контракта в сети - https://vc.ru/crypto/28314-sozdaem-svoy-erc20-token-na-baze-ethereum-za-2-minuty
 
