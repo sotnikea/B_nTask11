@@ -140,11 +140,14 @@
 ![pic10](https://github.com/sotnikea/B_nTask11/raw/main/pic2/10.png)     
 
 В базе данных указываем адрес нашего контракта в сети и первого кота с индексом 24 тем самым разрешая будущий перевод..  И получаем бесконечную загрузку Метамаск. В самом метамаск в активности появляется запись "одобрить предел расходов metamask" при выборе которой так же бесконечная загрузка((
-    
+
 ![pic11](https://github.com/sotnikea/B_nTask11/raw/main/pic2/11.png)     
 
 
-![pic12](https://github.com/sotnikea/B_nTask11/raw/main/pic2/12.png)     
+![pic12](https://github.com/sotnikea/B_nTask11/raw/main/pic2/12.png) 
+
+![pic13](https://github.com/sotnikea/B_nTask11/raw/main/pic2/13.png)     
+
 
 
 
