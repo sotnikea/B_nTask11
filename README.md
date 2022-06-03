@@ -44,7 +44,7 @@
 
 # Обзор решения
 ### Тестирование с исходным KittenRegistry
-Деплоим PetShop из файла KittenRegistry  
+Деплоим PatShop из файла KittenRegistry  
 
 ![pic1](https://github.com/sotnikea/B_nTask11/raw/main/pic1/1.png)     
 
@@ -95,7 +95,7 @@
 
 И видим, что забрать второго кота пока нельзя, т.к. срок хранения не истек. Т.е. весь функционал работает верно
 
-![pic13](https://github.com/sotnikea/B_nTask11/raw/main/pic1/5.png)    
+![pic13](https://github.com/sotnikea/B_nTask11/raw/main/pic1/13.png)    
 
 ### Тестирование контракта в сети Ropsten 
 
@@ -123,7 +123,7 @@
 
 ![pic6](https://github.com/sotnikea/B_nTask11/raw/main/pic2/6.png)     
 
-Проверяем балан котов на счету, с которого они были приобретены и видим, что котов действительно два
+Проверяем баланc котов на счету, с которого они были приобретены и видим, что котов действительно два
 
 ![pic7](https://github.com/sotnikea/B_nTask11/raw/main/pic2/7.png)     
 
@@ -131,20 +131,20 @@
 
 ![pic8](https://github.com/sotnikea/B_nTask11/raw/main/pic2/8.png)     
 
-И запоминаем id купленного "нулевого" кота
+И запоминаем id купленного первого кота
 
 ![pic9](https://github.com/sotnikea/B_nTask11/raw/main/pic2/9.png)     
 
-И первого кота
+И второго кота
 
 ![pic10](https://github.com/sotnikea/B_nTask11/raw/main/pic2/10.png)     
 
 В базе данных указываем адрес нашего контракта в сети и первого кота с индексом 24 тем самым разрешая будущий перевод
 
-И получаем бесконечную загрузку при нажатии кнопки approve. При этом в метамаск в активности появляется запись: "одобрить предел расходов metamask", при выборе которой так же начинается бесконечная загрузку((
+
 
 
 # Ссылки
-- Цикл уроков по solidity - https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.11+commit.d7f03943.js
-- Размещение контракта в сети - https://vc.ru/crypto/28314-sozdaem-svoy-erc20-token-na-baze-ethereum-za-2-minuty
+Цикл уроков по solidity - https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.11+commit.d7f03943.js
+Размещение контракта в сети - https://vc.ru/crypto/28314-sozdaem-svoy-erc20-token-na-baze-ethereum-za-2-minuty
 
