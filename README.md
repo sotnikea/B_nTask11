@@ -40,7 +40,7 @@
 
 Для вызова функций смарт-контрактов из тестовой сети, в *Remix*, на вкладке *run* можно выбрать нужный контракт из выпадающего списка и вместо **deploy** - выбрать пункт **at address**, предварительно указав адрес в соседнем поле. (**Note**: Новый интерфейс отличается визуально, но поля такие же)  
 
-![pic_11_1](https://github.com/sotnikea/Apriorit/raw/main/part11/dz_11/img/pic_11_1.png)   
+![pic_11_1](https://github.com/sotnikea/B_nTask11/raw/main/img/pic_11_1.png)   
 
 # Обзор решения
 ### Тестирование с исходным KittenRegistry
@@ -140,6 +140,11 @@
 ![pic10](https://github.com/sotnikea/B_nTask11/raw/main/pic2/10.png)     
 
 В базе данных указываем адрес нашего контракта в сети и первого кота с индексом 24 тем самым разрешая будущий перевод
+
+![pic11](https://github.com/sotnikea/B_nTask11/raw/main/pic2/11.png)     
+
+
+![pic12](https://github.com/sotnikea/B_nTask11/raw/main/pic2/12.png)     
 
 
 
